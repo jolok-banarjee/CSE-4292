@@ -1,0 +1,3 @@
+1.1 Know the structure of a computer and have an idea about its functioning
+1.2 Learn to develop programming logic through algorithms and flowcharts
+

@@ -12,10 +12,8 @@ int main()
     float area, PI; //float - data type area - variable
     int  radius=6;
     PI= 3.1416;
-
     area= PI*radius*radius;
-
     printf("The ara of Circle : %f", area);
-
     return 0;
 }
+//Sub Program
