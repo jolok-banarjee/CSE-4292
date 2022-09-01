@@ -4,16 +4,16 @@
 int main()
 {
     int a, b, temp;
-    printf("Enter The value 'a':3");
+    printf("Enter The value 'a': ");
     scanf("%d", &a);
-    printf("Enter The value 'b':\n");
+    printf("\nEnter The value 'b': ");
     scanf("%d", &b);
-    printf("The value of a is %d\n", a);
-    printf("The value of b is %d\n", b);
+    printf("\nThe value of a is %d", a);
+    printf("\nThe value of b is %d", b);
     temp=a;
     a=b;
     b=temp;
-    printf("The swap value of 'a' is %d\n",a);
-    printf("The swap value of 'b' is %d\n", b);
+    printf("\nThe swap value of 'a' is %d",a);
+    printf("\nThe swap value of 'b' is %d", b);
     return 0;
 }
