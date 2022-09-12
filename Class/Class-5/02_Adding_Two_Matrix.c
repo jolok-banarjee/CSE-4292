@@ -3,6 +3,8 @@
 int main()
 {
     int m, n, c, d, first[10][10], second[10][10], sum[10][10];
+    // m - number of row, n - number of column
+    // c - row, d - column
 
     printf("Enter the number of rows and columns of matrix:\n");
     scanf("%d%d", &m, &n);

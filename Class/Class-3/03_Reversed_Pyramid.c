@@ -9,7 +9,7 @@ int main() {
      
     for(i = rows; i > 0; i--) {
     /* Prints one row of triangle */
-        for(j = i; j > 0; j--) {
+        for(j = 0; j<=i; j++) {
            printf("%d", i);
         }
         printf("\n");

@@ -1,5 +1,5 @@
 /*. Write a C program to find the multiplication of two matrix.
-*/
+ */
 
 #include <stdio.h>
 
@@ -29,7 +29,7 @@ int main()
             {
                 for (k = 0; k < p; k++)
                 {
-                    sum = sum + first[c][k]*second[k][d];
+                    sum = sum + first[c][k] * second[k][d];
                 }
                 multiply[c][d] = sum;
                 sum = 0;

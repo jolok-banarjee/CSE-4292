@@ -24,8 +24,8 @@ int main()
             //continue;
         }
         i++;
-        if(i==5)
-        break;
+     //   if(i==6)
+      //  break;
     }
     return 0;
 }

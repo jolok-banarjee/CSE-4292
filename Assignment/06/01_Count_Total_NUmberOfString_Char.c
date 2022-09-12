@@ -11,7 +11,7 @@ int main()
     gets(string);
     for(i=0; string[i]!='\0'; i++)
     {
-        if(string[i]==' ' && string[i+1]!=' ')
+        if(string[i]==' ' || string[i+1]!='\0')
         {
             count++;
         }

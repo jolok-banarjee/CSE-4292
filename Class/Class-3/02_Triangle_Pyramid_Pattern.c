@@ -8,11 +8,11 @@ int main() {
      
     for(i = 1; i <= rows; i++) {
     /* Prints one row of triangle */
-        for(j = 1; j <= i; ++j) {
+        for(j = 1; j <= i; j++) {
            printf("%d",i);
         }
         printf("\n");
     }
-    getch();
+    //getch();
     return 0;
 }
