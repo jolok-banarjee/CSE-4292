@@ -6,7 +6,7 @@ int main()
     int a, b, temp;
     printf("Enter The value 'a': ");
     scanf("%d", &a);
-    printf("\nEnter The value 'b': ");
+    printf("Enter The value 'b': ");
     scanf("%d", &b);
     printf("\nThe value of a is %d", a);
     printf("\nThe value of b is %d", b);
