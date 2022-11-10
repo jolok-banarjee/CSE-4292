@@ -1,0 +1,28 @@
+CSE-Lab-3 
+Next lab work name 
+1. C program to Natural number using for loop. 
+2. C program Triangle by using nested for loop.
+3.C program for Reverse Triangle by using nested for loop. 
+4. C program for 1 to 20 sum of natural number.
+
+CSE-4
+1. Write a c program use do while loop to print a natural number. 
+2.Write a c program using while loop find positive and negative intrger. 
+3.Write a c program to find the sum of 10 input  using array. 
+4.Write a c program to find multiplication table.
+
+CSE-5
+1. Write  C  Program for create a two matrix. 
+2. Write program in c sum of two matrix. 
+3. Write a program in C find  transpose of a matrix.
+
+CSE-6 
+1. Write a program in c to check  two string equal or not. 
+2. Write a program in c merge in two string. 
+3. Write a program in c to check vowel and consonent of a string.
+4. Write a c program to finds its frequency of a string.
+
+CSE Lab -7 
+1. Write a C program to find summation and subtraction of a number using user define function 
+2. Write a C program to cheak prime or not using user define function. 
+3. Write a program in C to find factorial of a number using user define function.
